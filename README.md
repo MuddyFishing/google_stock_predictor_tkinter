@@ -8,4 +8,5 @@ To run this just download all the files and copy all the files to a folder and r
 Some drawbacks:-
 
 1.Opening two graphs at same time may overwrite each other.
+
 2.Different windows will open for each graph.
